@@ -1,5 +1,3 @@
-# Biostat_Reference
-
 # Welcome and Table of Contents
 
 This is a markdown adapted version of the pdf also available in the
